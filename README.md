@@ -6,7 +6,9 @@ Server : Xampp
 Panduan Instalasi :
 
 - Download dan Instal Aplikasi Xampp di Komputer.
+  
 Ekstrak file menggunakan aplikasi WinRAR.
+
 Copy folder perpustakaan, lalu paste ke folder htdocs.
 Aktifkan Apache dan MySQL pada Xampp.
 Buka browser, lalu buka alamat localhost/phpmyadmin.
